@@ -1,0 +1,11 @@
+.cards {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+  width: 920px;
+  column-count: 3;
+  gap: 0 100px;
+  margin: auto;
+}
